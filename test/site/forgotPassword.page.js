@@ -1,4 +1,3 @@
-// import Page from './page';
 import Page from './page';
 
 class ForgotPasswordPage extends Page {
