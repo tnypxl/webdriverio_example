@@ -43,7 +43,7 @@ exports.config = {
         // grid with only 5 firefox instances available you can make sure that not more than
         // 5 instances get started at a time.
         maxInstances: 5,
-        browserName: 'firefox'
+        browserName: 'chrome'
     }],
     //
     // ===================
@@ -57,7 +57,7 @@ exports.config = {
     sync: true,
     //
     // Level of logging verbosity: silent | verbose | command | data | result | error
-    logLevel: 'verbose',
+    logLevel: 'error',
     //
     // Enables colors for log output.
     coloredLogs: true,
