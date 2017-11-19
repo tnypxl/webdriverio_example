@@ -1,7 +1,3 @@
-// var expect = require('chai').expect;
-// var ForgotPasswordPage = require('../site/forgotPassword.page');
-// var EmailSentPage = require('../site/emailSent.page');
-
 import { expect } from "chai";
 import ForgotPasswordPage from "../site/forgotPassword.page";
 import EmailSentPage from "../site/emailSent.page";
