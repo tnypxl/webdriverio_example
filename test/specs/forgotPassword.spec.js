@@ -1,4 +1,3 @@
-import { expect } from "chai";
 import ForgotPasswordPage from "../site/forgotPassword.page";
 import EmailSentPage from "../site/emailSent.page";
 
